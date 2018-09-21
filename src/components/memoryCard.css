@@ -1,0 +1,13 @@
+*{
+    background-color: green;
+}
+.memCard{
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    background-color: white;
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+}

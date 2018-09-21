@@ -1,3 +1,5 @@
+//These are just defaults given by create-react-app package
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';

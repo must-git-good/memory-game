@@ -1,18 +1,24 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
+import React from 'react';
+import MemoryCard from './components/memoryCard';
 import './App.css';
+import memoryCard from './memoryCard.json';
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div>
+        <MemoryCard
+        id={memoryCard[0].id}
+        image={memoryCard[0].image}
+         />
+         <MemoryCard
+        id={memoryCard[1].id}
+        image={memoryCard[1].image}
+         />
+         <MemoryCard
+        id={memoryCard[2].id}
+        image={memoryCard[2].image}
+         />
       </div>
     );
   }

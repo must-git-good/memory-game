@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "color": "red",
+      "name": "red",
+      "image":
+        "https://www. ",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "color": "orange",
+      "name": "orange",
+      "image":
+        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "color": "yellow",
+      "name": "yellow",
+      "image":
+        "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+        "id": 4,
+        "name": "green",
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
+      },
+      {
+        "id": 5,
+        "name": "blue",
+        "image":
+          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "occupation": "Restaurant Owner",
+        "location": "A Giant Anchor"
+      },
+      {
+        "id": 6,
+        "name": "Indigo",
+        "image":
+          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "occupation": "Cashier",
+        "location": "An Easter Island Head"
+      },
+      {
+        "id": 7,
+        "name": "Violet",
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
+      },
+      {
+        "id": 8,
+        "name": "Brown",
+        "image":
+          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "occupation": "Restaurant Owner",
+        "location": "A Giant Anchor"
+      },
+      {
+        "id": 9,
+        "name": "Black",
+        "image":
+          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "occupation": "Cashier",
+        "location": "An Easter Island Head"
+      }
+  ]
