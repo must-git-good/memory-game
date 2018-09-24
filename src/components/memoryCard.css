@@ -1,13 +1,113 @@
 *{
-    background-color: green;
+    background-color: transparent;
+   
+    /* background-color: blue; */
 }
-.memCard{
+.memCard1{
+    background-color: black;
     padding: 0;
     margin: 2%;
     width:200px;
     height: 200px;
-    background-color: white;
+    /* background-color: white; */
     float: left;
     text-align: center;
     font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=1')"
+}
+.memCard2{
+    background-color:red;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=2')"
+}
+.memCard3{
+    background-color:brown;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=3')"
+}
+.memCard4{
+    background-color: yellow;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=4')"
+}
+.memCard5{
+    background-color: blue;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=5')"
+}
+.memCard6{
+    background-color:green;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=6')"
+}
+.memCard7{
+    background-color: purple;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=7')"
+}
+.memCard8{
+    background-color: orange;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=8')"
+}
+.memCard9{
+    background-color: silver;
+    padding: 0;
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    /* background-color: white; */
+    float: left;
+    text-align: center;
+    font-size: 1.4rem;
+    background-image: "url('https://picsum.photos/200/300/?image=9')"
 }

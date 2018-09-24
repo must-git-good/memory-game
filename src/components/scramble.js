@@ -1,10 +1,10 @@
-import React from "react";
+// import React from "react";
 
-class Scramble extends React.Component{
+// class Scramble extends React.Component{
 
-    state = {
-        order: []
-    }
+//     state = {
+//         order: []
+//     }
 
 
-};
+// };
